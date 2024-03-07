@@ -8,7 +8,7 @@ export const initialData = [
     imageUrl: "https://d2o812a6k13pkp.cloudfront.net/fit-in/1080x1080/Productos/40408971001_03.jpg"
   },
   {
-    id: "7",
+    id: "2",
     name: "Pantalones vaqueros",
     price: "30",
     stock: "6",
